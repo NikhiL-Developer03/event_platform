@@ -13,8 +13,7 @@ const Footer = () => {
             height={38}
           />
         </Link>
-
-        <p>2023 Evently. All Rights reserved.</p>
+        <p>Eventigo Designed and Developed by Nick Developer and Ankit Choudhary</p>
       </div>
     </footer>
   )
