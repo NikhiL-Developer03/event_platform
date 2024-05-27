@@ -13,7 +13,8 @@ const Footer = () => {
             height={38}
           />
         </Link>
-        <p>Eventigo Designed and Developed by Nick Developer and Ankit Choudhary</p>
+        {/* <p>Eventigo Designed and Developed by Nick Developer and Ankit Choudhary</p> */}
+        <p>Eventigo Copyright @2024 All rights reserved</p>
       </div>
     </footer>
   )
